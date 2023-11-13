@@ -1,0 +1,34 @@
+.solid {
+	border-style: solid;
+	border-color: #800080;
+	border-width: 10px;
+}
+.dotted {
+	border-style: dotted;
+	border-color: #ff0000;
+	border-width: 10px;
+}
+.dashed {
+	border-style: dashed;
+	border-color: green;
+	border-width: 10px;
+}
+.double {
+	border-style: double;
+	border-color: #ff69b4;
+	border-width: 10px;
+}
+.left {
+	border-left: solid;
+	border-color: orange;
+	border-width: 10px;
+}
+.radius {
+	border-style: solid;
+	border-radius: 10px;
+	border-color: salmon;
+	border-width: 10px;
+}
+.image {
+	border-radius: 50%;
+}
